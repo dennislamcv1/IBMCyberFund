@@ -1,0 +1,6 @@
+CustomerID: 12345
+Name: John Doe
+Account Number: 9876543210
+Balance: $15,230.45
+Email: john.doe@example.com
+Phone: +1-555-678-9101

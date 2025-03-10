@@ -1,0 +1,8 @@
+EmployeeID: 78901
+Name: Alice Smith
+Position: Senior Financial Analyst
+Salary: $98,500
+SSN: 123-45-6789
+Email: alice.smith@securebank.com
+Phone: +1-555-112-3344
+Bank Account: 1234567890123456
