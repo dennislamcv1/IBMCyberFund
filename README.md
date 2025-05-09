@@ -1,5 +1,6 @@
-# IBMCyberFund
-## Cybersecurity Fundamentals Specialization
+# IBMCYBERFUND
+
+## Cybersecurity Fundamentals Specialization (4 course series)
 
 Vigilance against cyberthreats and attacks becomes increasingly important year over year as we continue to accelerate the amount of sensitive information in digital, web-accessible formats. Do you want to arm yourself with the required knowledge to ensure protection for yourself or your organization? Take this cybersecurity Specialization to learn the basics!
 
